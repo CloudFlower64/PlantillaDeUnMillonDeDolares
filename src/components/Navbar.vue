@@ -15,6 +15,6 @@
         </div>
     </div>
 </template>
-<style lang="sass">
+<style lang="css">
     
 </style>
