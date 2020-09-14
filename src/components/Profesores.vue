@@ -46,7 +46,7 @@
   width: 30%;
 }
 
- .funcionarios {
+.funcionarios {
    display: flex;
    justify-content: space-around;
  }
